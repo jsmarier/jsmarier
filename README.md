@@ -15,7 +15,7 @@ Department of Communication<br>
 University of Ottawa<br>
 Ontario, Canada<br>
 
-## Course Taught 🎓
+## Courses Taught 🎓
 
 ### University of Ottawa
 
