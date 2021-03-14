@@ -6,7 +6,17 @@
 
 ## Who am I? ❓
 
-Multiplatform journalist and producer with experience in print, radio, TV and web-based reporting. Instructor with experience teaching university-level communication and journalism courses in both English and French. As comfortable teaching basic multimedia production skills or a fourth-year seminar on public broadcasting. Geek with a working proficiency in HTML, CSS, and Python. 
+Multiplatform journalist and producer with experience in print, radio, TV, and web-based reporting. Instructor with experience teaching university-level communication and journalism courses in both English and French. As comfortable teaching basic multimedia production skills as a fourth-year seminar on public broadcasting. Geek with a working proficiency in HTML, CSS, Python, and XPath.
+
+## Languages
+
+## Human
+
+English and French, working proficiency in Spanish
+
+### Coding/Programming
+
+CSS, HTML, Python for data analysis (Pandas, Altair, NumPy),  machine learning (scikit-learn), XPath queries, JupyterLab
 
 ## Current Affiliation 🌎
 
