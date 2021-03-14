@@ -11,9 +11,9 @@ Multiplatform journalist and producer with experience in print, radio, TV and we
 ## Current Affiliation 🌎
 
 Part-Time Professor - Long-Term Appointment<br>
-Department of Communication
-University of Ottawa
-Ontario, Canada
+Department of Communication<br>
+University of Ottawa<br>
+Ontario, Canada<br>
 
 ## Course Taught 🎓
 
