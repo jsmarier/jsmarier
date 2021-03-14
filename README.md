@@ -10,7 +10,7 @@ Multiplatform journalist and producer with experience in print, radio, TV, and w
 
 ## Languages
 
-## Human
+### Human
 
 English and French, working proficiency in Spanish
 
