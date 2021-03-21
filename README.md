@@ -43,6 +43,6 @@ Ontario, Canada<br>
 
 ## Learn More 🔗
 
-- [Profile on the University of Ottawa's uniweb Portal](https://uniweb.uottawa.ca/members/4204)
+- [Profile on the University of Ottawa's UNIWeb Portal](https://uniweb.uottawa.ca/members/4204)
 - [LinkedIn](https://www.linkedin.com/in/jsmarier/)
 - [Academia](https://uottawa.academia.edu/jsmarier)
