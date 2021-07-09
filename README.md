@@ -18,11 +18,16 @@ English and French, working proficiency in Spanish
 
 CSS, HTML, Python for data analysis (Pandas, Altair, NumPy),  machine learning (scikit-learn), XPath queries, JupyterLab
 
-## Current Affiliation 💡
+## Current Affiliations 💡
 
 Part-Time Professor - Long-Term Appointment<br>
 Department of Communication<br>
 University of Ottawa<br>
+Ontario, Canada<br>
+
+Contract Instructor<br>
+Media and Production Design<br>
+Carleton University<br>
 Ontario, Canada<br>
 
 ## Courses Taught 🎓
