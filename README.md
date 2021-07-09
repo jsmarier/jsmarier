@@ -51,3 +51,6 @@ Ontario, Canada<br>
 - [Profile on the University of Ottawa's UNIWeb Portal](https://uniweb.uottawa.ca/members/4204)
 - [LinkedIn](https://www.linkedin.com/in/jsmarier/)
 - [Academia](https://uottawa.academia.edu/jsmarier)
+
+<iframe title="Taux de chômage selon la province - Octobre 2020" aria-label="map" id="datawrapper-chart-5oSqk" src="https://datawrapper.dwcdn.net/5oSqk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="642"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
