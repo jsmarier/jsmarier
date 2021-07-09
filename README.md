@@ -26,7 +26,7 @@ University of Ottawa<br>
 Ontario, Canada<br>
 
 Contract Instructor<br>
-Media and Production Design<br>
+Media Production and Design<br>
 Carleton University<br>
 Ontario, Canada<br>
 
