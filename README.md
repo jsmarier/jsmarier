@@ -50,4 +50,4 @@ Ontario, Canada<br>
 
 - [Profile on the University of Ottawa's UNIWeb Portal](https://uniweb.uottawa.ca/members/4204)
 - [LinkedIn](https://www.linkedin.com/in/jsmarier/)
-- [Academia](https://uottawa.academia.edu/jsmarier)
+- [Academia.edu](https://uottawa.academia.edu/jsmarier)
