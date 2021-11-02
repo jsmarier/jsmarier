@@ -16,7 +16,7 @@ English and French, working proficiency in Spanish
 
 ### Coding/Programming
 
-CSS, HTML, Python for data analysis (Pandas, Altair, NumPy), supervised machine learning (scikit-learn), XPath queries, Google Sheets functions, JupyterLab, Markdown
+CSS, HTML, Python for data analysis (Pandas, Altair, NumPy, JupyterLab), basic R skills, supervised machine learning (scikit-learn), XPath queries, Excel and Google Sheets functions, Markdown
 
 ## Current Affiliations 💡
 
