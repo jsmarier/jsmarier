@@ -42,6 +42,7 @@ Ontario, Canada<br>
 - JOU3916 Stage pratique/Internship
 - JOU4100 Digital Journalism II
 - JOU4500 Journalisme numérique II
+- CO-OP Academic Coordinator (French)
 
 ### Carleton University
 
