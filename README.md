@@ -39,6 +39,7 @@ Ontario, Canada<br>
 - CMN4515 Médias et radiodiffusion publique
 - JOU3100 Digital Journalism I
 - JOU3500 Journalisme numérique I
+- JOU3916 Stage pratique/Internship
 - JOU4100 Digital Journalism II
 - JOU4500 Journalisme numérique II
 
