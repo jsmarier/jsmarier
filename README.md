@@ -21,6 +21,8 @@ CSS, HTML, Python for data analysis (Pandas, Altair, NumPy, JupyterLab), basic R
 ## Current Affiliations 💡
 
 Part-Time Professor - Long-Term Appointment<br>
+Digital Journalism Program Coordinator<br>
+CO-OP Academic Coordinator (French)<br>
 Department of Communication<br>
 University of Ottawa<br>
 Ontario, Canada<br>
