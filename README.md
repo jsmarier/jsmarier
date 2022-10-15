@@ -37,6 +37,7 @@ Ontario, Canada<br>
 ### University of Ottawa
 
 - CMN2158 Multimedia I
+- CMN2167 Video I
 - CMN4115 Media and Public Broadcasting
 - CMN4515 Médias et radiodiffusion publique
 - JOU3100 Digital Journalism I
