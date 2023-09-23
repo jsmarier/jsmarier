@@ -22,7 +22,7 @@ CSS, HTML, Python for data analysis (Pandas, Altair, NumPy, JupyterLab), basic R
 
 Part-Time Professor - Long-Term Appointment<br>
 Digital Journalism Program Coordinator<br>
-CO-OP Academic Coordinator (French)<br>
+CO-OP Academic Coordinator<br>
 Department of Communication<br>
 University of Ottawa<br>
 Ontario, Canada<br>
