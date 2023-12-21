@@ -16,7 +16,7 @@ English and French, working proficiency in Spanish
 
 ### Coding/Programming
 
-CSS, HTML, Python for data analysis (Pandas, Altair, NumPy, JupyterLab), basic R skills, supervised machine learning (scikit-learn), XPath queries, Excel and Google Sheets functions, Markdown
+CSS, HTML, Markdown, Python for data analysis (Pandas, Altair, NumPy, JupyterLab), basic R skills, supervised machine learning (scikit-learn), XPath queries, Excel and Google Sheets functions
 
 ## Current Affiliations 💡
 
@@ -45,7 +45,6 @@ Ontario, Canada<br>
 - JOU3916 Stage pratique/Internship
 - JOU4100 Digital Journalism II
 - JOU4500 Journalisme numérique II
-- CO-OP Academic Coordinator (French)
 
 ### Carleton University
 
